@@ -1,4 +1,4 @@
-name        "mongodb"
+name        "mongodb-sa"
 description 'Cookbook for Sphereable'
 maintainer  "Strange Lightning"
 license     "MIT"
